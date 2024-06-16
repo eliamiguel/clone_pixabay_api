@@ -192,4 +192,3 @@ document.querySelector('#search-input').addEventListener('keypress', handleKeypr
 document.querySelector('#page').addEventListener('keypress', handlePage);
 document.querySelector('#page-next').addEventListener('click', handleNext);
 document.querySelector('#page-previous').addEventListener('click', handlePrevious);
-*/
