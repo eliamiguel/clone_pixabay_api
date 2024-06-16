@@ -4,9 +4,10 @@
   gap:6px;
   padding: 0 40px;
 }
-
 @media (max-width: 720px){
   .container-gallery{
     padding: 0 6px;
   }
 }
+
+
